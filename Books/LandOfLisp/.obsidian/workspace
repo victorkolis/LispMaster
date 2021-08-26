@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "5e8094b2cb859779",
+    "type": "split",
+    "children": [
+      {
+        "id": "419d33740dd856e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "275bf7c8c21d566b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "397e221a160f31fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f61a29e479a82048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e1a5ce157113af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9db3a019ff1a69d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "55569cd2ea514fa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd0b9c3563b6e448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad292310cca742e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "419d33740dd856e2",
+  "lastOpenFiles": [
+    "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+    "CH2_CreatingYourFirstLispProgram/Untitled.md",
+    "CH2_CreatingYourFirstLispProgram/BinarySearch.md"
+  ]
+}
