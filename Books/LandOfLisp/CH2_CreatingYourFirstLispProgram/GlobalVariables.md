@@ -2,7 +2,7 @@
 
 ### Defining the small and big variables
 
-A variable that is defined globally in Lisp is called a *top-level-definition*. We can create new top-level definitions with the `efparameter` function:
+A variable that is defined globally in Lisp is called a *top-level-definition*. We can create new top-level definitions with the `defparameter` function:
 
 1.1
 \>`(defparameter *small* 1)`
