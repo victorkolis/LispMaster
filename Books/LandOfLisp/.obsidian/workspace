@@ -6,21 +6,23 @@
       {
         "id": "419d33740dd856e2",
         "type": "leaf",
+        "dimension": 14.492753623188406,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+            "file": "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "275bf7c8c21d566b",
+        "id": "f792dff3206b3f53",
         "type": "leaf",
+        "dimension": 85.5072463768116,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+            "file": "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
             "mode": "preview"
           }
         }
@@ -63,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "55569cd2ea514fa2",
@@ -79,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+                "file": "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,9 @@
   },
   "active": "419d33740dd856e2",
   "lastOpenFiles": [
+    "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
     "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+    "Untitled.md",
     "CH2_CreatingYourFirstLispProgram/Untitled.md",
     "CH2_CreatingYourFirstLispProgram/BinarySearch.md"
   ]
