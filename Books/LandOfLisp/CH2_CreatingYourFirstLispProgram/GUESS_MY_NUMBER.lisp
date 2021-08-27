@@ -28,15 +28,3 @@
     (defparameter *big* 100)
     (guess-my-number))
 
-
-
-
-
-
-
-
-
-
-
-
-
