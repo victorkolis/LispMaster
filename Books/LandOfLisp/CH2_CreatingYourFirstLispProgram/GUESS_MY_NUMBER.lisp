@@ -13,6 +13,6 @@
 
 ;; Defining the smaller & bigger functions
 (defun smaller ()
-    (setf *big* (guess-my_number))
+    (setf *big* (1- (guess-my-number)))
     (guess-my-number))
 
