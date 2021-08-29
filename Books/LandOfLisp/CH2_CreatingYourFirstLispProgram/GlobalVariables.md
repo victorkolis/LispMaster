@@ -3,7 +3,8 @@
 ### Defining the small and big variables
 
 <style>
-pre{ background-color:"black";
+pre{background-color:"black";
+  font-family:"monospace"
 }
 </style>
 A variable that is defined globally in Lisp is called a *top-level-definition*. We can create new top-level definitions with the `defparameter` function:
