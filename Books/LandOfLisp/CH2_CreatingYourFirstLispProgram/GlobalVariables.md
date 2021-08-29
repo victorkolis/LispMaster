@@ -5,10 +5,12 @@
 A variable that is defined globally in Lisp is called a *top-level-definition*. We can create new top-level definitions with the `defparameter` function:
 
 1.1
-\>`(defparameter *small* 1)`
-\*SMALL\*
-\>`(defparameter *big* 100)`
-\*BIG\*
+<pre>
+> `(defparameter *small* 1)`
+*SMALL*
+> `(defparameter *big* 100)`
+*BIG\*
+</pre>
 
 The function name defparameter is a bit confusing, since it doesn’t really
 have anything to do with parameters. What it does is let you define a global
