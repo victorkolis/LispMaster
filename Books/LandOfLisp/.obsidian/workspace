@@ -6,7 +6,7 @@
       {
         "id": "419d33740dd856e2",
         "type": "leaf",
-        "dimension": 14.492753623188406,
+        "dimension": 38.550724637681164,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "f792dff3206b3f53",
         "type": "leaf",
-        "dimension": 85.5072463768116,
+        "dimension": 61.44927536231884,
         "state": {
           "type": "markdown",
           "state": {
@@ -100,7 +100,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "419d33740dd856e2",
+  "active": "f792dff3206b3f53",
   "lastOpenFiles": [
     "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
     "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",

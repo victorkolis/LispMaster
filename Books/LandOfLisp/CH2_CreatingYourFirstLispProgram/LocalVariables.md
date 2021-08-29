@@ -23,3 +23,7 @@ of the command (and only within this body), we can use these variables.
 the variables and their values in a let expression form a kind of simple table, common
 practice is to align the declared variables vertically. This is why the b is placed directly
 underneath the a in the preceding example.*
+<pre>
+for i in range(10):
+    print('=^ ^=')
+</pre>
