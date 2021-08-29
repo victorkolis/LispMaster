@@ -3,14 +3,14 @@
 ### Defining the small and big variables
 
 <style>
-pre{background-color:"black";
+pre{
   font-family:"monospace"
 }
 </style>
 A variable that is defined globally in Lisp is called a *top-level-definition*. We can create new top-level definitions with the `defparameter` function:
 
 1.1
-<pre>
+<pre style="background-color:black; font-family: monospace">
 > (defparameter *small* 1)
 *SMALL*
 > (defparameter *big* 100)
@@ -28,14 +28,16 @@ variables in this way as a convention, to make them easy to distinguish from
 local variables, which are discussed later in this chapter.
 
 Another command for creating variables is `defvar`.
-\>`(defvar *yawn* 5)`
-\*YAWN\*
-\>`*yawn*`
+<pre style="background-color:black; font-family: monospace">
+> (defvar *yawn* 5)
+*YAWN*
+>`*yawn*`
 5
-\>`(defvar *yawn* 6)`
-\*YAWN\*
-\>`*yawn*`
+> (defvar *yawn* 6)
+*YAWN*
+\> *yawn*
 5
+</pre>
 
 ## ASH
 The built-in Lisp function ash looks at a number in binary form, and then
