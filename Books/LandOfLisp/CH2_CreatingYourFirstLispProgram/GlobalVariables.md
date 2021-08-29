@@ -31,18 +31,10 @@ Another command for creating variables is `defvar`.
 <pre style="background-color:black; font-family: monospace">
 > (defvar *yawn* 5)
 *YAWN*
->`*yawn*`
+> *yawn*
 5
 > (defvar *yawn* 6)
 *YAWN*
-\> *yawn*
+> *yawn*
 5
 </pre>
-
-## ASH
-The built-in Lisp function ash looks at a number in binary form, and then
-shifts its binary bits to the left or right, dropping any bits lost in the process.
-For example, the number 11 written in binary is 1011. We can move the bits
-in this number to the left with ash by using 1 as the second argument:
-\> `(ash 11 1)`
-22
