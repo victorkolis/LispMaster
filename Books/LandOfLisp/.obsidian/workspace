@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "419d33740dd856e2",
+        "id": "f792dff3206b3f53",
         "type": "leaf",
-        "dimension": 38.550724637681164,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
+            "file": "CH2_CreatingYourFirstLispProgram/Ash.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "f792dff3206b3f53",
+        "id": "06dbb40d69705bf7",
         "type": "leaf",
-        "dimension": 61.44927536231884,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
+            "file": "CH2_CreatingYourFirstLispProgram/Ash.md",
             "mode": "preview"
           }
         }
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
+                "file": "CH2_CreatingYourFirstLispProgram/Ash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +100,11 @@
   },
   "active": "f792dff3206b3f53",
   "lastOpenFiles": [
-    "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
-    "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
-    "Untitled.md",
+    "CH2_CreatingYourFirstLispProgram/Ash.md",
     "CH2_CreatingYourFirstLispProgram/Untitled.md",
+    "CH2_CreatingYourFirstLispProgram/GlobalVariables.md",
+    "CH2_CreatingYourFirstLispProgram/LocalVariables.md",
+    "Untitled.md",
     "CH2_CreatingYourFirstLispProgram/BinarySearch.md"
   ]
 }
